@@ -1,0 +1,8 @@
+Word : Vowel Count
+hy : 0
+345 : 0
+sky : 0
+no : 1
+j5trick3 : 1
+123 : 0
+h5 : 0
