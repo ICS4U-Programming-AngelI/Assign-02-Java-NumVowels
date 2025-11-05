@@ -24,7 +24,7 @@ public final class NumVowels {
      * @return The number of vowels in the word.
      * Digits are ignored when counting vowels.
      */
-    public static int numVowels(final String word) {
+    public static int numVowels(String word) {
         // Convert word to lowercase so 'A' and 'a' are treated the same
         word = word.toLowerCase();
 
